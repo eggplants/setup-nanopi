@@ -1,0 +1,8 @@
+*.save
+*.swp
+*.deb
+miserc.local.toml
+/compose/scanned/
+/compose/epgstation/data/
+/compose/epgstation/thumbnail/
+/compose/epgstation/logs/
