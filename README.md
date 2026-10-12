@@ -1,4 +1,4 @@
-# My setup for NanoPi R6S
+# Moved 👉 [`eggplants/mise-bootstrap`](https://github.com/eggplants/mise-bootstrap)
 
 ## Environment
 
